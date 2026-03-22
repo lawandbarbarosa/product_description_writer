@@ -1,0 +1,20 @@
+# Web Framework & Server
+fastapi
+uvicorn
+pydantic
+requests
+
+# Frontend
+streamlit
+
+# LangChain & Agentic Framework
+langchain
+langchain-openai
+langgraph
+
+# Utilities
+python-dotenv
+ipython
+
+# Optional but recommended for your async flows
+asyncio
