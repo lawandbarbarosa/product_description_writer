@@ -149,4 +149,4 @@ MIT
 
 ---
 
-*Built by [Your Name] · If this helped you, drop a ⭐*
+*Built by LAWAND · If this helped you, drop a ⭐*
